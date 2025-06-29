@@ -10,7 +10,7 @@ The game compares the choices and shows who wins. First to 5 points wins the mat
 
 ## 🚀 Getting Started
 
-👉 **Play it here:** [https://your-deployment-link.com](https://am-973.github.io/js-rock-paper-scissors/)
+👉 **Play it here:** [https://am-973.github.io/js-rock-paper-scissors/](https://am-973.github.io/js-rock-paper-scissors/)
 
 👉 **Planning Materials:**
 - [User Stories](./planning/user-stories.md)
